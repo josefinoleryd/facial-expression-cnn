@@ -4,7 +4,7 @@
 
 Python version 3.13.7
 
-1. Klona projektet från Github. I terminalen: git clone
+1. Klona projektet från Github. I terminalen: git clone https://github.com/josefinoleryd/facial-expression-cnn.git
 
 2. Installera nödvändiga paket. I terminalen: pip install -r requirements.txt
 
